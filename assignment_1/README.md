@@ -5,7 +5,7 @@ This notebook includes a series of control theory tasks focused on converting di
 ## Alternative way to check solution
 https://colab.research.google.com/drive/1cJeABfz1I5gAt-4Hzicu0JChjeI2rPuU?usp=share_link
 
-If the file fails to display fully
+If the file "Control_theory_assigment_1.ipynb" fails to display fully
 
 ###  Task Summaries
 
