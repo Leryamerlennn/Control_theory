@@ -3,9 +3,9 @@
 This notebook includes a series of control theory tasks focused on converting differential equations to state-space and transfer function form, performing numerical simulations, and analyzing system stability.
 
 ## Alternative way to check solution
-https://colab.research.google.com/drive/1cJeABfz1I5gAt-4Hzicu0JChjeI2rPuU?usp=share_link
+[Open in Google Colab](https://colab.research.google.com/drive/1cJeABfz1I5gAt-4Hzicu0JChjeI2rPuU?usp=share_link)  
 
-If the file "Control_theory_assigment_1.ipynb" fails to display fully
+If the file `Control_theory_assigment_1.ipynb` does not display fully.
 
 ###  Task Summaries
 
