@@ -2,7 +2,7 @@
 
 This notebook focuses on stabilizing the classic cart-pole system. It combines nonlinear system modeling with modern control techniques such as linearization, linear feedback, observer design, and discrete control. Both analytical derivations and simulations are used to validate control strategies.
 
-## 💡 Alternative way to check the solution  
+##  Alternative way to check the solution  
 [Open in Google Colab](https://drive.google.com/file/d/1e7x1JWJuO-cjQD8zoA9OjirNroEz5nBj/view?usp=share_link)  
 
 If the file `Control_theory_assigment_3.ipynb` does not display fully.
