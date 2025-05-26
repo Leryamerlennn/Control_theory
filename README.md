@@ -42,7 +42,7 @@ From modeling differential equations to designing robust controllers and simulat
 
 ---
 
-### Assignment 3 – Nonlinear Cart-Pole Stabilization ([Notebook](assignment_3/Control_theory_assigment_3.ipynb))
+### Assignment 3 – Nonlinear Cart-Pole Stabilization ([Notebook](assigment_3/Control_theory_assigment_3.ipynb))
 - Derive full nonlinear model of the cart-pole using Lagrangian mechanics  
 - Linearize dynamics around the upright position  
 - Design stabilizing controller for linearized and nonlinear system  
