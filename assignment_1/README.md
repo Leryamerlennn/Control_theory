@@ -2,6 +2,11 @@
 
 This notebook includes a series of control theory tasks focused on converting differential equations to state-space and transfer function form, performing numerical simulations, and analyzing system stability.
 
+## Alternative way to check solution
+https://colab.research.google.com/drive/1cJeABfz1I5gAt-4Hzicu0JChjeI2rPuU?usp=share_link
+
+If the file fails to display fully
+
 ###  Task Summaries
 
 ####  Task 1.1: ODE to State-Space Conversion
